@@ -1,0 +1,19 @@
+{
+  "productName": "Geopolymer binder (example)",
+  "declaredUnit": "1.0 kg",
+  "boundary": "cradle-to-gate (A1-A3)",
+  "pcfExcludingBiogenic_kgCO2e": 0.2522,
+  "primaryDataShare": 0.718,
+  "massBalanceCheck": {
+    "total_input_kg": 1.06,
+    "expected_input_kg": 1.06,
+    "deviation": 0.0,
+    "ok": true
+  },
+  "methodology": [
+    "ISO 14067",
+    "GHG Protocol Product Standard",
+    "TfS PCF Guideline (simplified)"
+  ],
+  "note": "Example only - emission factors are illustrative, not from a licensed database."
+}

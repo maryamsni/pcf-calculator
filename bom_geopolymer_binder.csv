@@ -1,0 +1,6 @@
+component,mass_kg,supplier,supplier_pcf_kgco2e_per_kg,transport_mode,transport_km
+fly_ash,0.40,Supplier A,,truck,150
+ggbs,0.30,Supplier B,0.06,truck,200
+sodium_silicate_solution,0.20,Supplier C,0.70,truck,300
+sodium_hydroxide_50pct,0.08,Supplier D,,rail,500
+water,0.08,Local utility,,none,0

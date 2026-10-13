@@ -1,0 +1,13 @@
+stage,source,kgco2e,data_type
+A1 raw materials,fly_ash,0.004,secondary
+A1 raw materials,ggbs,0.018,primary
+A1 raw materials,sodium_silicate_solution,0.14,primary
+A1 raw materials,sodium_hydroxide_50pct,0.048,secondary
+A1 raw materials,water,3e-05,secondary
+A2 transport,fly_ash (truck),0.006,secondary
+A2 transport,ggbs (truck),0.006,secondary
+A2 transport,sodium_silicate_solution (truck),0.006,secondary
+A2 transport,sodium_hydroxide_50pct (rail),0.0012,secondary
+A2 transport,water (none),0.0,secondary
+A3 manufacturing,electricity,0.019,primary
+A3 manufacturing,natural gas,0.004,primary

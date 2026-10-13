@@ -1,0 +1,11 @@
+name,category,factor,unit,source
+fly_ash,material,0.010,kgCO2e/kg,ILLUSTRATIVE (by-product - cut-off approach)
+ggbs,material,0.080,kgCO2e/kg,ILLUSTRATIVE
+sodium_silicate_solution,material,0.800,kgCO2e/kg,ILLUSTRATIVE
+sodium_hydroxide_50pct,material,0.600,kgCO2e/kg,ILLUSTRATIVE
+water,material,0.0004,kgCO2e/kg,ILLUSTRATIVE
+truck,transport,0.10,kgCO2e/tkm,ILLUSTRATIVE
+rail,transport,0.03,kgCO2e/tkm,ILLUSTRATIVE
+none,transport,0.0,kgCO2e/tkm,-
+electricity,energy,0.38,kgCO2e/kWh,ILLUSTRATIVE (grid mix)
+natural_gas,energy,0.20,kgCO2e/kWh,ILLUSTRATIVE
